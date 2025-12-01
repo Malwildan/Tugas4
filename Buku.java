@@ -1,4 +1,4 @@
-package com.mb1.praktikum7;
+package com.mb1.Tugas4;
 
 public class Buku {
     private String isbn;
